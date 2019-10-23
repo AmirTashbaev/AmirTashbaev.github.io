@@ -1,0 +1,21 @@
+a:active {
+    background: white;
+    color: black;
+}
+a:hover {
+    background: white;
+    color: black;
+}
+
+p:first-child {
+    font-weight: bolder;
+}
+
+p::first-letter{
+    font-size: 2em;
+}
+
+p::first-line {
+    font-size: 0ch;
+}
+
